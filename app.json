@@ -1,0 +1,12 @@
+{
+  "name": "derivadas",
+  "displayName": "derivadas",
+  "expo": {
+    "name": "derivadas",
+    "slug": "derivadas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
