@@ -13,6 +13,8 @@ function Home() {
 const Container = styled.View`
   flex: 1;
   background-color: #bbf;
+  align-items: center;
+  justify-content: center;
 `;
 
 export default Home;
