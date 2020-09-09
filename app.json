@@ -1,9 +1,9 @@
 {
-  "name": "derivadas",
-  "displayName": "derivadas",
+  "name": "RN-expo-ESL-TS-Prettier",
+  "displayName": "RN-expo-ESL-TS-Prettier",
   "expo": {
-    "name": "derivadas",
-    "slug": "derivadas",
+    "name": "RN-expo-ESL-TS-Prettier",
+    "slug": "RN-expo-ESL-TS-Prettier",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
