@@ -5,7 +5,7 @@ import styled from "styled-components/native";
 function Home() {
   return (
     <Container>
-      <Text>ploc</Text>
+      <Text>Hello World</Text>
     </Container>
   );
 }
