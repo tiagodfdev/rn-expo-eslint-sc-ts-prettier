@@ -4,13 +4,13 @@ import styled from "styled-components/native";
 
 function Home() {
   return (
-    <StyledView>
+    <Container>
       <Text>ploc</Text>
-    </StyledView>
+    </Container>
   );
 }
 
-const StyledView = styled.View`
+const Container = styled.View`
   flex: 1;
   background-color: #bbf;
 `;
